@@ -28,4 +28,20 @@ This project demonstrates user authentication, music streaming, database integra
 ---
 
 ## 📂 Project Structure
-
+Spotify/
+│── Database/
+│ └── spotify_clone.sql
+│── image/
+│── uploads/
+│── connection.php
+│── fetch_songs.php
+│── home.php
+│── home.js
+│── home-container.php
+│── index.php
+│── insert_songs.php
+│── login.php
+│── logout.php
+│── register.php
+│── search_song.php
+│── style.css
